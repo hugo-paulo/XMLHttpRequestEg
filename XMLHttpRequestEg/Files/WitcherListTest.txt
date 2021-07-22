@@ -1,0 +1,7 @@
+﻿Witchers:
+Name: Geralt,
+Name: Vesemir
+
+Sorceress:
+Name: Yennefer,
+Name: Triss
